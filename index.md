@@ -10,7 +10,7 @@ I am interested in node embedding and graph representation learning. More precis
 - Graph Neural Network
 - Graph Anomaly Detection
 
-## Publications
+## Selected Publications
 
 ## Academic Services
 Subreviewer or external reviewer of
