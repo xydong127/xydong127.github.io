@@ -13,4 +13,4 @@
 ## Experience
 
 ## Contact
-Email: xydong@se.cuhk.edu.hk
+- Email: xydong@se.cuhk.edu.hk
