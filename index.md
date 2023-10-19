@@ -28,7 +28,4 @@ Subreviewer or external reviewer of
 
 ## Contact
 - Email: xydong@se.cuhk.edu.hk
-- Address: Room 503, William M.W. Mong Engineering Building
-           Department of Systems Engineering and Engineering Management
-           The Chinese University of Hong Kong
-           Shatin, N.T., Hong Kong
+- Address: Room 503, William M.W. Mong Engineering Building, Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong
