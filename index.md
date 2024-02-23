@@ -25,9 +25,9 @@ Subreviewer or external reviewer of
 
 ## Experience
 - Teaching Assistant of
-    1. CSCI2100D Data Structures, 2022-2023, Spring
-    2. FTEC4003 Data Mining for FinTech, 2022-2023, 2023-2024, Fall
-- Special Teaching Assistant 2023-2024, Fall
+    1. CSCI2100D Data Structures, 2022-2023 Spring
+    2. FTEC4003 Data Mining for FinTech, 2022-2023 Fall, 2023-2024 Fall
+- Special Teaching Assistant 2023-2024 Fall
 
 ## Contact
 - Email: xydong@se.cuhk.edu.hk
