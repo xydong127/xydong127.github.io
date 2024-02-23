@@ -15,6 +15,7 @@ I am interested in node embedding and graph representation learning. More precis
 ## Academic Services
 Subreviewer or external reviewer of
 
+- ICDE 2024, IJCAI 2024
 - AAAI 2023, IJCAI 2023, NIPS workshop 2023
 - CIKM 2022, ICDE 2022
 
