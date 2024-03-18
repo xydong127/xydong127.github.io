@@ -14,11 +14,11 @@ I am interested in node embedding and graph representation learning. More precis
 
 1. Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection
 
-**Xiangyu Dong**, Xingyi Zhang, Sibo Wang
+   **Xiangyu Dong**, Xingyi Zhang, Sibo Wang
 
-ICLR 2024
+   ICLR 2024
 
-[Paper](https://openreview.net/forum?id=4UIBysXjVq)/[code](https://github.com/xydong127/RQGNN)
+   [Paper](https://openreview.net/forum?id=4UIBysXjVq)/[code](https://github.com/xydong127/RQGNN)
 
 ## Academic Services
 Subreviewer or external reviewer of
