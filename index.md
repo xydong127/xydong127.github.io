@@ -31,7 +31,7 @@ I am interested in graph representation learning and data mining. Current topics
    
 3. KPG: Key Propagation Graph Generator for Rumor Detection based on Reinforcement Learning
 
-   Yusong Zhang*, Kun Xie*, Xingyi Zhang, **Xiangyu Dong**, Sibo Wang
+   Yusong Zhang\*, Kun Xie\*, Xingyi Zhang, **Xiangyu Dong**, Sibo Wang
 
    WWW 2025
 
@@ -47,7 +47,7 @@ I am interested in graph representation learning and data mining. Current topics
 
 5. Learning-based Attribute-Augmented Proximity Matrix Factorization for Attributed Network Embedding
 
-   **Kun Xie***, **Xiangyu Dong***, Xingyi Zhang, Qintian Guo, Sibo Wang
+   **Kun Xie\***, **Xiangyu Dong\***, Xingyi Zhang, Qintian Guo, Sibo Wang
 
    TKDE 2024
 
@@ -55,7 +55,7 @@ I am interested in graph representation learning and data mining. Current topics
 
 6. Logic-Consistency Text Generation from Semantic Parses
 
-   Chang Shu*, Yusen Zhang*, **Xiangyu Dong**, Peng Shi, Tao Yu, and Rui Zhang
+   Chang Shu\*, Yusen Zhang\*, **Xiangyu Dong**, Peng Shi, Tao Yu, and Rui Zhang
 
    Findings of ACL 2021
 
@@ -63,7 +63,7 @@ I am interested in graph representation learning and data mining. Current topics
 
 7. Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL
 
-   **Yusen Zhang***, **Xiangyu Dong***, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang
+   **Yusen Zhang\***, **Xiangyu Dong\***, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang
 
    EMNLP workshop 2020
 
