@@ -80,9 +80,9 @@ I am interested in graph representation learning and data mining. Current topics
 ## Academic Services
 Subreviewer or external reviewer of
 
-- ICDE 2024, IJCAI 2024
-- AAAI 2023, IJCAI 2023, NIPS workshop 2023
-- CIKM 2022, ICDE 2022
+- ICLR 2025, WWW 2025
+- ICDE 2024, CIKM 2024
+- CIKM 2023
 
 ## Experience
 - Teaching Assistant of
