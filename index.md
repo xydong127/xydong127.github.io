@@ -13,6 +13,8 @@ I am interested in graph representation learning and data mining. Current topics
 
 ## Selected Publications
 
+(* denotes co-first author)
+
 1. SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels
 
    **Xiangyu Dong**, Xingyi Zhang, Lei Chen, Mingxuan Yuan, Sibo Wang
