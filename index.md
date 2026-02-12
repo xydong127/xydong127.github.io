@@ -83,19 +83,19 @@ I am interested in graph representation learning and large language models. Curr
 
 10. Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL
 
-   Yusen Zhang\*, **Xiangyu Dong\***, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang
+    Yusen Zhang\*, **Xiangyu Dong\***, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang
 
-   EMNLP workshop 2020
+    EMNLP workshop 2020
 
-   [Paper](https://virtual.2020.emnlp.org/paper_WS-6.15.html)
+    [Paper](https://virtual.2020.emnlp.org/paper_WS-6.15.html)
 
 11. Pairwise Learning for Name Disambiguation in Large-Scale Heterogeneous Academic Networks
 
-   Qingyun Sun, Hao Peng, Jianxin Li, Senzhang Wang, **Xiangyu Dong**, Liangxuan Zhao, Philip S. Yu, Lifang He
+    Qingyun Sun, Hao Peng, Jianxin Li, Senzhang Wang, **Xiangyu Dong**, Liangxuan Zhao, Philip S. Yu, Lifang He
 
-   ICDM 2020
+    ICDM 2020
 
-   [Paper](https://ieeexplore.ieee.org/document/9338259)
+    [Paper](https://ieeexplore.ieee.org/document/9338259)
 
 ## Academic Services
 Subreviewer or external reviewer of
