@@ -57,7 +57,15 @@ I am interested in graph representation learning and large language models. Curr
 
    [Paper](https://openreview.net/forum?id=hzFMa1lAlK)
 
-7. Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection
+7. Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection
+
+   Xiping Li, **Xiangyu Dong**, Xingyi Zhang, Kun Xie, Yuanhao Feng, Bo Wang, Guilin Li, Wuxiong Zeng, Xiujun Shu, Sibo Wang.
+
+   KDD 2025
+
+   [Paper](https://arxiv.org/abs/2505.18934)/[code](https://github.com/HsipingLi/ChiGAD)
+
+8. Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection
 
    **Xiangyu Dong**, Xingyi Zhang, Sibo Wang
 
@@ -65,7 +73,7 @@ I am interested in graph representation learning and large language models. Curr
 
    [Paper](https://openreview.net/forum?id=4UIBysXjVq)/[code](https://github.com/xydong127/RQGNN)
 
-8. Learning-based Attribute-Augmented Proximity Matrix Factorization for Attributed Network Embedding
+9. Learning-based Attribute-Augmented Proximity Matrix Factorization for Attributed Network Embedding
 
    Kun Xie\*, **Xiangyu Dong\***, Xingyi Zhang, Qintian Guo, Sibo Wang
 
@@ -73,7 +81,7 @@ I am interested in graph representation learning and large language models. Curr
 
    [Paper](https://ieeexplore.ieee.org/document/10508499)
 
-9. Logic-Consistency Text Generation from Semantic Parses
+10. Logic-Consistency Text Generation from Semantic Parses
 
    Chang Shu\*, Yusen Zhang\*, **Xiangyu Dong**, Peng Shi, Tao Yu, and Rui Zhang
 
@@ -81,7 +89,7 @@ I am interested in graph representation learning and large language models. Curr
 
    [Paper](https://aclanthology.org/2021.findings-acl.388/)
 
-10. Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL
+11. Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL
 
     Yusen Zhang\*, **Xiangyu Dong\***, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang
 
@@ -89,7 +97,7 @@ I am interested in graph representation learning and large language models. Curr
 
     [Paper](https://virtual.2020.emnlp.org/paper_WS-6.15.html)
 
-11. Pairwise Learning for Name Disambiguation in Large-Scale Heterogeneous Academic Networks
+12. Pairwise Learning for Name Disambiguation in Large-Scale Heterogeneous Academic Networks
 
     Qingyun Sun, Hao Peng, Jianxin Li, Senzhang Wang, **Xiangyu Dong**, Liangxuan Zhao, Philip S. Yu, Lifang He
 
