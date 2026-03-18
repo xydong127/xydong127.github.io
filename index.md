@@ -83,13 +83,13 @@ I am interested in graph representation learning and large language models. Curr
 
 10. Logic-Consistency Text Generation from Semantic Parses
 
-   Chang Shu\*, Yusen Zhang\*, **Xiangyu Dong**, Peng Shi, Tao Yu, and Rui Zhang
+    Chang Shu\*, Yusen Zhang\*, **Xiangyu Dong**, Peng Shi, Tao Yu, and Rui Zhang
 
-   Findings of ACL 2021
+    Findings of ACL 2021
 
-   [Paper](https://aclanthology.org/2021.findings-acl.388/)
+    [Paper](https://aclanthology.org/2021.findings-acl.388/)
 
-11. Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL
+12. Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL
 
     Yusen Zhang\*, **Xiangyu Dong\***, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang
 
@@ -97,7 +97,7 @@ I am interested in graph representation learning and large language models. Curr
 
     [Paper](https://virtual.2020.emnlp.org/paper_WS-6.15.html)
 
-12. Pairwise Learning for Name Disambiguation in Large-Scale Heterogeneous Academic Networks
+13. Pairwise Learning for Name Disambiguation in Large-Scale Heterogeneous Academic Networks
 
     Qingyun Sun, Hao Peng, Jianxin Li, Senzhang Wang, **Xiangyu Dong**, Liangxuan Zhao, Philip S. Yu, Lifang He
 
