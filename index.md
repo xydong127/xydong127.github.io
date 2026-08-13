@@ -15,25 +15,37 @@ I am interested in graph representation learning and large language models. Curr
 
 (* denotes co-first author)
 
-1. Fair Text, Fair Recommendation: Mitigating Textual Preference Bias in LLM-Based Recommendation Systems
+1. SLATE-Rec: Set-Normalized LLM Alignment with Traceable Evidence for Recommendation
+
+   **Xiangyu Dong**, Lingfei Zeng, Senhao Cheng, Di Jiang, Xun Zhou, Fangyuan Zhang
+
+   Under Review
+
+2. SPOT: Slot Projection with Optimal Transport for Anti-Cancer Molecule Discovery
+
+   **Xiangyu Dong**, Lingfei Zeng, Yuanpeng Yao, Jing Tang, Xun Zhou, Fangyuan Zhang
+
+   Under Review
+
+3. Fair Text, Fair Recommendation: Mitigating Textual Preference Bias in LLM-Based Recommendation Systems
    
    **Xiangyu Dong**, Xingyi Zhang, Kun Xie, Bryan Hooi, Sibo Wang
    
    Under Review
 
-2. JacobiGAD: Jacobi Polynomial–Powered Heterogeneous Graph-Level Anomaly Detection
+4. JacobiGAD: Jacobi Polynomial–Powered Heterogeneous Graph-Level Anomaly Detection
 
    **Xiangyu Dong**, Xingyi Zhang, Yuanhao Feng, Bo Wang, Guilin Li, Wuxiong Zeng, Xiujun Shu, Bryan Hooi, Yixiang Fang, Sibo Wang
 
    Under Review
 
-3. FracAug: Fractional Augmentation boost Graph-level Anomaly Detection under Limited Supervision
+5. FracAug: Fractional Augmentation boost Graph-level Anomaly Detection under Limited Supervision
 
    **Xiangyu Dong**, Xingyi Zhang, Sibo Wang
 
    Under Review
 
-4. SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels
+6. SpaceGNN: Multi-Space Graph Neural Network for Node Anomaly Detection with Extremely Limited Labels
 
    **Xiangyu Dong**, Xingyi Zhang, Lei Chen, Mingxuan Yuan, Sibo Wang
 
@@ -41,7 +53,7 @@ I am interested in graph representation learning and large language models. Curr
 
    [Paper](https://openreview.net/forum?id=Syt4fWwVm1)/[code](https://github.com/xydong127/SpaceGNN)
 
-5. SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection
+7. SmoothGNN: Smoothing-based GNN for Unsupervised Node Anomaly Detection
 
    **Xiangyu Dong**, Xingyi Zhang, Yanni Sun, Lei Chen, Mingxuan Yuan, Sibo Wang
 
@@ -49,7 +61,7 @@ I am interested in graph representation learning and large language models. Curr
 
    [Paper](https://openreview.net/forum?id=6gwfdkl862)/[code](https://github.com/xydong127/SmoothGNN)
    
-6. KPG: Key Propagation Graph Generator for Rumor Detection based on Reinforcement Learning
+8. KPG: Key Propagation Graph Generator for Rumor Detection based on Reinforcement Learning
 
    Yusong Zhang\*, Kun Xie\*, Xingyi Zhang, **Xiangyu Dong**, Sibo Wang
 
@@ -57,7 +69,7 @@ I am interested in graph representation learning and large language models. Curr
 
    [Paper](https://openreview.net/forum?id=hzFMa1lAlK)
 
-7. Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection
+9. Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection
 
    Xiping Li, **Xiangyu Dong**, Xingyi Zhang, Kun Xie, Yuanhao Feng, Bo Wang, Guilin Li, Wuxiong Zeng, Xiujun Shu, Sibo Wang.
 
@@ -65,7 +77,7 @@ I am interested in graph representation learning and large language models. Curr
 
    [Paper](https://arxiv.org/abs/2505.18934)/[code](https://github.com/HsipingLi/ChiGAD)
 
-8. Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection
+10. Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection
 
    **Xiangyu Dong**, Xingyi Zhang, Sibo Wang
 
@@ -73,37 +85,13 @@ I am interested in graph representation learning and large language models. Curr
 
    [Paper](https://openreview.net/forum?id=4UIBysXjVq)/[code](https://github.com/xydong127/RQGNN)
 
-9. Learning-based Attribute-Augmented Proximity Matrix Factorization for Attributed Network Embedding
+11. Learning-based Attribute-Augmented Proximity Matrix Factorization for Attributed Network Embedding
 
    Kun Xie\*, **Xiangyu Dong\***, Xingyi Zhang, Qintian Guo, Sibo Wang
 
    TKDE 2024
 
    [Paper](https://ieeexplore.ieee.org/document/10508499)
-
-10. Logic-Consistency Text Generation from Semantic Parses
-
-    Chang Shu\*, Yusen Zhang\*, **Xiangyu Dong**, Peng Shi, Tao Yu, and Rui Zhang
-
-    Findings of ACL 2021
-
-    [Paper](https://aclanthology.org/2021.findings-acl.388/)
-
-12. Did You Ask a Good Question? A Cross-Domain Question Intention Classification Benchmark for Text-to-SQL
-
-    Yusen Zhang\*, **Xiangyu Dong\***, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang
-
-    EMNLP workshop 2020
-
-    [Paper](https://virtual.2020.emnlp.org/paper_WS-6.15.html)
-
-13. Pairwise Learning for Name Disambiguation in Large-Scale Heterogeneous Academic Networks
-
-    Qingyun Sun, Hao Peng, Jianxin Li, Senzhang Wang, **Xiangyu Dong**, Liangxuan Zhao, Philip S. Yu, Lifang He
-
-    ICDM 2020
-
-    [Paper](https://ieeexplore.ieee.org/document/9338259)
 
 ## Academic Services
 Subreviewer or external reviewer of
