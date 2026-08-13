@@ -79,19 +79,19 @@ I am interested in graph representation learning and large language models. Curr
 
 10. Rayleigh Quotient Graph Neural Networks for Graph-level Anomaly Detection
 
-   **Xiangyu Dong**, Xingyi Zhang, Sibo Wang
+    **Xiangyu Dong**, Xingyi Zhang, Sibo Wang
 
-   ICLR 2024
+    ICLR 2024
 
-   [Paper](https://openreview.net/forum?id=4UIBysXjVq)/[code](https://github.com/xydong127/RQGNN)
+    [Paper](https://openreview.net/forum?id=4UIBysXjVq)/[code](https://github.com/xydong127/RQGNN)
 
 11. Learning-based Attribute-Augmented Proximity Matrix Factorization for Attributed Network Embedding
 
-   Kun Xie\*, **Xiangyu Dong\***, Xingyi Zhang, Qintian Guo, Sibo Wang
+    Kun Xie\*, **Xiangyu Dong\***, Xingyi Zhang, Qintian Guo, Sibo Wang
 
-   TKDE 2024
+    TKDE 2024
 
-   [Paper](https://ieeexplore.ieee.org/document/10508499)
+    [Paper](https://ieeexplore.ieee.org/document/10508499)
 
 ## Academic Services
 Subreviewer or external reviewer of
