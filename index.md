@@ -101,7 +101,7 @@ Subreviewer or external reviewer of
 - ICDE 2024, CIKM 2024
 - CIKM 2023
 
-Program Chair of
+Program Committee Member of
 
 - WWW 2026 Graph Algorithms and Modeling for the Web, WWW 2026 Social Networks and Social Media, WWW 2026 Short Papers
 - WWW 2025 Short Papers
